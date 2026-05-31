@@ -87,7 +87,6 @@
 ```
 reader_number_zero/
 ├── index.html    # 游戏本体（打开即玩）
-├── game.html     # game.html 与 index.html 内容一致（备用）
 ├── bg.txt        # 世界观背景原文
 └── README.md     # 本文件
 ```
