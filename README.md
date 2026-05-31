@@ -1,5 +1,7 @@
 # 永夜书馆·零号借阅者
 
+# 本项目由 DeepSeek v4 Flash 在OpenCode中，基于背景世界观 bg.txt 制作。
+
 > 十四页的命运 · 十三座书馆 · 七个结局
 
 一款中式哥特风格的文字冒险游戏（hypertext fiction），纯前端，打开即玩。
